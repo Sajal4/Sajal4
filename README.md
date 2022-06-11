@@ -30,7 +30,7 @@ I'm a graduate in Electronic and communication  🎓 from Adamas University 🏛
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sajal4).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: sajaldebnath45@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](SAJAL's Resume.pdf).
 
 ### My Absolute Favorites:
 
