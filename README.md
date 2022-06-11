@@ -12,4 +12,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/__mr.sd___/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mac_id)
 
-<img align="center" src="https://camo.githubusercontent.com/b7e3aec……5f69636…" alt="Sajal's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&theme=dark&line_height=27" style="max-width: 100%;">
+<img align="center" src="https://camo.githubusercontent.com/b7e3aec……5f69636…" alt="Sajal's github stats" data-canonical-src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)" style="max-width: 100%;">
