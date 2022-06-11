@@ -2,7 +2,7 @@
 <br>
 <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="25px"> </h2>
 <br>
-## Hey 👋, I'm [Sajal Debnath!](https://github.com/Sajal4)
+# Hey 👋, I'm [![Sajal Debnath]](https://github.com/Sajal4)
 <br>
 
 
