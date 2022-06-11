@@ -3,8 +3,8 @@
 ## Hey 👋, I'm [Sajal Debnath!](https://github.com/Sajal4)
 
 <br>
-<a href="mailto:sajaldebnath45@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- <a href="mailto:sajaldebnath45@gmail.com" target="_blank"> -->
+<!-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
 
  [![Gmail Bdge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajaldebnath45@gmail.com)
   
