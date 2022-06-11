@@ -1,11 +1,10 @@
 ## Hey 👋, I'm [Sajal Debnath!](https://github.com/Sajal4/)
 
 <br>
-<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="25px"> </h2>
+<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="20px"> </h2>
 <br>
 
 <br>
-
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajaldebnath45@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-debnath-32661a16b/)
@@ -14,4 +13,4 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mac_id)
 
 <br>
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+
