@@ -1,4 +1,6 @@
-## Hello World! <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="25px"> </h2>
+## Hello World! 
+<br>
+<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="25px"> </h2>
 <br>
 ## Hey 👋, I'm [Sajal Debnath!](https://github.com/Sajal4)
 
@@ -13,4 +15,3 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mac_id)
 
 
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
