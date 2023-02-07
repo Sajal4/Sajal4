@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Sajal Debnath!](https://github.com/Sajal4/)
+## Hey 👋, I'm [Sajal Debnath!](https://sajal4.github.io/Sajal4/Sajal/index.html)
 ### (by clicking my name you also can see a magic)
 <br>
 <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="200px"> </h2>
