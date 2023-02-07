@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Sajal Debnath!](https://sajal4.github.io/Sajal4/Sajal/index.html)
 ### (by clicking my name you also can see a magic)
 <br>
-<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="200px"> </h2>
+<img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/hello.gif?raw=true" width="200px">
 
 <br>
 
@@ -28,7 +28,7 @@ I'm currently into Full Stack Devoloper 🕸️ and working on my Data Structure
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with React, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with NodeJs, ExpressJs, React, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently Working as a Full Stack Developer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sajal4).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
