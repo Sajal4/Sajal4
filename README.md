@@ -33,7 +33,7 @@ I'm currently into Full Stack Devoloper 🕸️ and working on my Data Structure
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sajal4).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: sajaldebnath923@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]([SAJAL's Resume.pdf](https://github.com/Sajal4/Sajal4/blob/05ea614eb76705476a8712be3851e9584c3ce8a6/SAJAL's%20Resume.pdf)).
+- 📝 &nbsp; Checkout my [Resume]([SAJAL's Resume.pdf](https://github.com/Sajal4/Sajal4/blob/2ec8d30e1225bd304bc836e4fc0e25e0aa483a7b/SAJAL's%20Resume%20New.pdf)).
 
 ### My Absolute Favorites:
 
